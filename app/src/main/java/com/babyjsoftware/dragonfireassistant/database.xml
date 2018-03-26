@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<characters>
+    <character id="1">
+        <archetype>Cleric</archetype>
+        <race>Shield Dwarf</race>
+        <handSize>4</handSize>
+        <gold>4</gold>
+        <hp>9</hp>
+        <devotion>4</devotion>
+        <martial>2</martial>
+        <arcane>1</arcane>
+        <stealth>1</stealth>
+        <color>green</color>
+    </character>
+    <character id="2">
+        <archetype>Wizard</archetype>
+        <race>Sun Elf</race>
+        <handSize>6</handSize>
+        <gold>3</gold>
+        <hp>5</hp>
+        <devotion>1</devotion>
+        <martial>1</martial>
+        <arcane>4</arcane>
+        <stealth>1</stealth>
+        <color>blue</color>
+    </character>
+</characters>
